@@ -1,0 +1,15 @@
+label:hover {
+    color: red;
+}
+
+input:hover {
+    border-color: lightcoral;
+}
+
+input:focus {
+    background-color: lightskyblue;
+}
+
+ul li:nth-child(1) {
+    background-color: rgb(102, 187, 192);
+}
